@@ -1,5 +1,5 @@
 // concat/join string benchmark
-// name the .go file with postsuffix _test to run go test command, according to go standard
+// name the .go file with suffix _test to run go test command, according to go standard
 //
 // run with: go test -bench=.
 
