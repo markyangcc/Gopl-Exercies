@@ -1,4 +1,7 @@
 // RUN with: "go run main.go"
+//
+// Fictionalize a dot which located at the end of the integer,
+// then it's possible to unify the processing logic of floating point numbers and integers.
 
 package main
 
