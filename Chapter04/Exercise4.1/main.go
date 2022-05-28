@@ -1,3 +1,6 @@
+// The xor operation can be used to compare the difference between the binary bits of two numbers.
+// x & (x-1) to remove the last bit 1, so how many times x & (x-1) executed means how much bit 1 it contains
+
 package main
 
 import (
