@@ -1,3 +1,5 @@
+// iota not  fit for 1000^n
+
 package main
 
 import (
