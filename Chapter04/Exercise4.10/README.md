@@ -1,4 +1,4 @@
-## reference
+## Reference
 https://docs.github.com/en/rest/search#search-issues-and-pull-requests
 
 https://docs.github.com/en/rest/search
@@ -9,7 +9,7 @@ In fact, github had offered the api since:someday
 But, handle the time conversion when call the api is a bit complicated to write.
 So, I choose to get all the issuse, and filter by myself.
 
-## call github api samples using curl
+## Call github api samples using curl
 ```bash
 curl \
   -H "Accept: application/vnd.github.v3+json" \
